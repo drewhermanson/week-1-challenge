@@ -1,9 +1,9 @@
-#Horiseon Code Rewrite
+# Horiseon Code Rewrite
 
-##Horiseon New Code
+## Horiseon New Code
 Rewrote the code forthe horiseon website to make it more concise and easier to follow. Added alt text to all the images on the website. Added comments to the entirety of the CSS page to make changing existing code easier.
 
-##Website Url
+## Website Url
 https://drewhermanson.github.io/week-1-challenge/
 
 ## Mock-Up
