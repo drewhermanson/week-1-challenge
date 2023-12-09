@@ -3,27 +3,27 @@
     padding: 0;
     margin: 0;
 }
-
+/*Code for background color*/
 body {
     background-color: #d9dcd6;
 }
-
+/*Code for header font, color, and pagging*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*Header size and display setting*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*color specifically for seo in horiseon*/
 .header h1 .seo {
-    color: #61a31e;
+    color: #b7bfbf;
 }
-
+/*Code for header margins, padding, font, and size*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +31,25 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*header code for displaying no list type*/
 .header div ul {
     list-style-type: none;
 }
-
+/*header display information*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*Text color*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*font size for page*/
 p {
     font-size: 16px;
 }
-
+/*Code for background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +58,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*Code for middle content placement*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*Code for middle content placement*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/*Code for middle content text. The margin's and display information */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Code that applies to all right side column content*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -101,7 +101,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Code for middle content text */
 .benefit-blocks {
     margin-bottom: 20px;
     padding: 50px;
@@ -110,23 +110,23 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Code for middle content images */
 .benefit-blocks img {
     max-height: 200px;
 }
-
+/*Code for middle content headers*/
 .benefit-blocks h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Code for footer*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*Code for footer header */
 .footer h2 {
     font-size: 20px;
 }
